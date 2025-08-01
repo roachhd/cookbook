@@ -7,7 +7,7 @@ cooking_time: 20
 servings: 1
 tags: [breakfast, vegetarian, german]
 ---
-# Amerikanische Pancakes
+# katie ball
 
 ![Image of Amerikanische Pancakes](../img/Amerikanische Pancakes.jpg)
 
