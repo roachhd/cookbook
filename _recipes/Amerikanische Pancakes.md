@@ -1,33 +1,24 @@
 ---
-sourceUrl: https://www.chefkoch.de/rezepte/1205621226313744/Amerikanische-Pancakes.html
-spoonacularSourceUrl: 
-imageSource: https://unsplash.com/photos/iuKj0rRRddA
-date: 2021-02-28
-cooking_time: 20
-servings: 1
-tags: [breakfast, vegetarian, german]
+sourceUrl: http://thewhoot.com.au/wp-content/uploads/2013/09/Cranky-tiny-teddy.jpg
+spoonacularSourceUrl: https://spoonacular.com/tiny-teddy-racers-placeholder
+date: 2025-08-02
+cooking_time: 10
+tags: [no-bake, kids, australian, fun]
 ---
-# katie ball
+# Tiny Teddy Racers
 
-![Image of Amerikanische Pancakes](../img/Amerikanische Pancakes.jpg)
+![Image of Tiny Teddy Racers](../img/Tiny Teddy Racers.jpg)
 
+- 100g cooking chocolate, melted  
+- 1 bag Milky Way bars  
+- 1 box Tiny Teddy biscuits (honey flavour)  
+- 1 bag Smarties (340g)
 
-- 150 g Mehl
-- 100 ml Milch
-- 200 ml Naturjoghurt
-- 2 EL Zucker
-- 1 Pck. Backpulver
-- 1 Prise(n) Salz
-- Olivenöl
-- Ahornsirup
-- 3 Ei(er)
+1. Prepare a tray or board as work surface.  
+2. Slice 12 Smarties in half to become "steering wheels."  
+3. Unwrap Milky Ways and prepare Tiny Teddies.  
+4. Pipe a small amount of melted chocolate on each side of Milky Way, attach 4 Smarties as wheels.  
+5. Add Tiny Teddy on top with a chocolate dot, and press on a Smartie half in front as steering wheel.  
 
-Die Eier zu einer schönen hellen Schaummasse verquirlen.
-
-Milch und Naturjoghurt vermischen, ich nehme etwa 200 ml Joghurt, den Rest Milch. Ihr könnt auch mehr oder weniger Joghurt nehmen, je nachdem was Ihr gerade da habt. Das macht die Pancakes so richtig schön dick und saftig!
-
-Mehl, Backpulver, Milch-Joghurt-Mischung, Salz und Zucker nach und nach zu den Eiern geben und immer schön weiter rühren. Evtl. etwas mehr Milch zufügen wenn der Teig zu dick ist. Aber er sollte schon gut dickflüssig sein.
-
-Die Pfanne auf mittlerer Stufe erhitzen, jeweils etwa einen TL Öl hineingeben und nacheinander den ganzen Teig zu Pancakes verbacken. Wichtig! Ganz wenig Öl verwenden und langsam, also auf mittlerer Stufe, nicht zu heiß ausbacken.
-
-Schmecken toll mit Ahornsirup, Zuckerrübensirup oder mit Frucht und Quark. 
+# Notes
+- Mini-fun size bars and colour-matching Smarties make them extra cute.
