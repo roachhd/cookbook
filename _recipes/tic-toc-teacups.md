@@ -5,7 +5,7 @@ date: 2025-08-02
 cooking_time: 20
 tags: [no-bake, australian, kids, dessert]
 ---
-# Tic Toc Tea Cups
+# Tic Toc Tea Cups 
 
 ![Image of Tic Toc Tea Cups](../img/Tic Toc Tea Cups.jpg)
 
@@ -21,4 +21,4 @@ tags: [no-bake, australian, kids, dessert]
 4. Add Lifesaver halves to side to form the “handle.”
 
 # Notes
-- If short on chocolate, icing sugar paste can be used as adhesive.
+- If short on chocolate, icing sugar paste can be used as adhesive. . 
