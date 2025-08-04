@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Cookbook
+title: KB's Cookbook
 
 # Short description of your site
 description: A collection of my favorite recipes 📖
@@ -16,9 +16,9 @@ collections:
 # Line-breaks have to be added manually via <br>
 animated_book:
   # Book cover / title
-  title: 'My <br> Cookbook'
+  title: 'KB's <br> Cookbook'
   # Inside the book
-  scribble: 'Take a <br> look'
+  scribble: 'Dare to <br> taste'
 
 
 # --- Local development options ---
@@ -72,7 +72,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jan Simson
+  name: Katie Ball
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -82,14 +82,14 @@ social-network-links:
   rss: true
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: jansim
-  twitter: _jansimson
+   github: roachhd
+#  twitter: _jansimson
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: RoachHD
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -105,7 +105,7 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jansim.github.io/cookbook/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "roachhd.github.io/cookbook/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
